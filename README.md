@@ -1,7 +1,7 @@
 ## creditCardFraud
 
 ###### Personal inputs to be added here below <. . .>
-
+(This isn't the real time project).
 
 ##### Content below as borrowed from Kaggle
 Link : https://www.kaggle.com/mlg-ulb/creditcardfraud
